@@ -1,7 +1,6 @@
 
 
-🦙 Lama Blog
-Lama Blog is a full-stack blog application built using the MERN stack with MySQL as the database. It enables users to seamlessly read, write, update, and delete blog posts with a mobile-friendly and interactive UI.
+🦙 A full-stack blog application built using the MERN stack with MySQL as the database. It enables users to seamlessly read, write, update, and delete blog posts with a mobile-friendly and interactive UI.
 
 🚀 Tech Stack
 Frontend: React.js, Axios, Context API
